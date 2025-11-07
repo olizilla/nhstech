@@ -15,7 +15,7 @@ const posts = await getCollection('posts')
         <li class="pb-8">
           <article>
             <h2>
-              <a class="text-xl hover:underline underline-offset-2 text-nhs-bright-blue font-bold" href={`/${post.id}`}>{post.data.title}</a>
+              <a class="text-xl hover:underline underline-offset-2 text-nhs-bright-blue font-bold" href={`/nhstech/${post.id}`}>{post.data.title}</a>
             </h2>
 <time class="text-base font-mono text-zinc-400" datetime={post.data.pubDate}>{post.data.pubDate}</time>
           </article>

@@ -9,7 +9,7 @@ Mapping the digital systems used within the UK health and care sectors to tackle
 
 We provide clear analyses of what is already in use &ndash; _the good, the bad and the ugly_ &ndash; to help improve decision making.
 
-For example, our [Paperless NHS report](paperless.html) shows the NHS spends **£250 million a year** on storing and handling paper medical records, and that total is going up.
+For example, our [Paperless NHS report](/nhstech/paperless) shows the NHS spends **£250 million a year** on storing and handling paper medical records, and that total is going up.
 
 
 ## What’s the big idea?
