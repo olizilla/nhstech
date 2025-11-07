@@ -1,4 +1,4 @@
-# nhstech
+# NHS Tech
 
 UK health and care sector ICT survey tools
 
