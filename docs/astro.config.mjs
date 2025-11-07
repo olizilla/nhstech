@@ -6,7 +6,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://nhstech.uk',
+  site: 'https://olizilla.github.io',
+  base: '/nhstech',
   vite: {
     plugins: [tailwindcss()]
   },
